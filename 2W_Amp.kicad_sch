@@ -4234,7 +4234,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-143_Horizontal"
+		(property "Footprint" "Sma:SMA_PINS"
 			(at 15.24 138.43 0)
 			(effects
 				(font
@@ -4300,7 +4300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-143_Horizontal"
+		(property "Footprint" "Sma:SMA_PINS"
 			(at 208.28 129.54 0)
 			(effects
 				(font

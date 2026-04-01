@@ -4,11 +4,17 @@ Ajax Telamon, 10 to 33 dBm driver to feed LDMOS RF amplifier
 ![Le driver](https://github.com/F6ITU/K_Driver/blob/main/Image/Ajax_Telamon.png)
 
 
-Ajax is a cascade of four OPA2674 op-amps, designed to amplify the signal from a DAC by around 30 dB (between 0 and 10 dBm of power, or 1 to 10 mW). The comfort zone of this amplifier is around half a watt to one watt of power.
+![La realisation](https://github.com/F6ITU/K_Driver/blob/main/Image/Ajax_2.jpg)
+
+
+Ajax is a cascade of four OPA2674 op-amps, designed to amplify the signal from a DAC by around 20/25 dB (between 0 to 10 dBm of input power27 dBm out). 
+
+The comfort zone of this amplifier is around half a watt of power.
 
 The origin of the diagram is lost in the mists of time.
 
-It can be found in the archives of the OpenHPSDR Penelope and Pennylane project, a 1/2 watt exciter (https://openhpsdr.org/wiki/index.php?title=PENELOPE) (following a AD9744ARU DAC).
+It can be found in the archives of the OpenHPSDR Penelope and Pennylane project, a 1/2 watt exciter (https://openhpsdr.org/wiki/index.php?title=PENELOPE) 
+(following a AD9744ARU DAC).
 
 It is also used in the 14HAM-DK2, an impressive project by F4JGL.  (https://sites.google.com/view/projet-14ham-dk2/les-%C3%A9l%C3%A9ments-du-projet/modules-ampli-hf-%C3%A9mission/module-driver). 
 

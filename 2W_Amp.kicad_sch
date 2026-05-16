@@ -2428,7 +2428,20 @@
 		)
 		(uuid "15a7a06c-b3eb-465a-a4d7-35087812eaa7")
 	)
-	(text "2W RF Amplifier"
+	(text "Input power must not exceed 5 dBm "
+		(exclude_from_sim no)
+		(at 64.77 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 15 15 1)
+			)
+		)
+		(uuid "3b63fac0-ba06-44aa-ab15-f964b1d9a7b9")
+	)
+	(text "1W RF Amplifier"
 		(exclude_from_sim no)
 		(at 158.496 67.564 0)
 		(effects
@@ -2499,6 +2512,17 @@
 			)
 		)
 		(uuid "f107be9c-f4d6-4852-acda-4030becd6afa")
+	)
+	(text "P out should not exceed 24 dBm (P in 0 dBm) for Pennywhistle\nP out should not exceed 26 dBm (P in 2 dBm) for Munin 100 LDMOS\nP out should be boosted at 32 dBm for Munin 400 LDMOS"
+		(exclude_from_sim no)
+		(at 46.99 19.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f77cf981-0ebc-4182-9aaf-ab2a22b0c870")
 	)
 	(junction
 		(at 129.54 125.73)

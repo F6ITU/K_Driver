@@ -1,5 +1,5 @@
 # K_Driver
-Ajax Telamon, 10 to 33 dBm driver to feed LDMOS RF amplifier
+Ajax Telamon, 10 to 30 dBm driver to feed LDMOS RF amplifier
 
 ![Le driver](https://github.com/F6ITU/K_Driver/blob/main/Image/Ajax_Telamon.png)
 
@@ -7,7 +7,7 @@ Ajax Telamon, 10 to 33 dBm driver to feed LDMOS RF amplifier
 ![La realisation](https://github.com/F6ITU/K_Driver/blob/main/Image/Ajax_2.jpg)
 
 
-Ajax is a cascade of four OPA2674 op-amps, designed to amplify the signal from a DAC by around 20/25 dB (between 0 to 10 dBm of input power27 dBm out). 
+Ajax is a cascade of four OPA2674 op-amps, designed to amplify the signal from a DAC by around 20/25 dB (between 0 to 5 dBm of input power 27 dBm out). 
 
 The comfort zone of this amplifier is around half a watt of power.
 
